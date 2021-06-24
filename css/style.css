@@ -260,7 +260,7 @@ body {
     display: block;
     background: rgba(0, 0, 0, 0.815);
     color: white;
-    font-size: large;
+    /* font-size: large; */
     font-style: italic;
 }
 
